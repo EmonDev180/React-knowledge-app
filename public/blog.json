@@ -1,0 +1,43 @@
+[
+    {
+      "id": 123456,
+      "cover": "https://i.ibb.co/kxQgBfP/teamwork-making-online-blog.jpg",
+      "title": "The Enigmatic Chronicles",
+      "author": "Penelope Quill",
+      "author_img": "https://i.ibb.co/9453kVD/top-view-desk-concept-with-coffee.jpg",
+      "posted_date": "2023-04-10",
+      "reading_time": "25 minutes",
+      "hashtag": "#MysticalTales"
+    },
+    {
+      "id": 789012,
+      "cover": "https://i.ibb.co/3yxtcDw/blog-concept-with-wooden-worktable-supplies-44344-887.jpg",
+      "title": "Quantum Echoes",
+      "author": "Maximillian Cipher",
+      "author_img": "author_image2.jpg",
+      "posted_date": "2023-05-15",
+      "reading_time": 18,
+      "hashtag": "#SciFiWonders"
+    },
+    {
+      "id": 345678,
+      "cover": "https://i.ibb.co/3yxtcDw/blog-concept-with-wooden-worktable-supplies-44344-887.jpg",
+      "title": "Whispers in the Shadows",
+      "author": "Seraphina Nightshade",
+      "author_img": "https://i.ibb.co/3yxtcDw/blog-concept-with-wooden-worktable-supplies-44344-887.jpg",
+      "posted_date": "2023-06-22",
+      "reading_time": 10,
+      "hashtag": "#DarkFantasy"
+    },
+    {
+      "id": 901234,
+      "cover": "https://i.ibb.co/3yxtcDw/blog-concept-with-wooden-worktable-supplies-44344-887.jpg",
+      "title": "Galactic Odyssey",
+      "author": "Orion Stardust",
+      "author_img": "https://i.ibb.co/3yxtcDw/blog-concept-with-wooden-worktable-supplies-44344-887.jpg",
+      "posted_date": "2023-07-08",
+      "reading_time": 22,
+      "hashtag": "#SpaceExploration"
+    }
+  ]
+  
