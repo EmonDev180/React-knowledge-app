@@ -1,12 +1,12 @@
 [
     {
       "id": 123456,
-      "cover": "https://i.ibb.co/kxQgBfP/teamwork-making-online-blog.jpg",
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
       "title": "The Enigmatic Chronicles",
       "author": "Penelope Quill",
       "author_img": "https://i.ibb.co/9453kVD/top-view-desk-concept-with-coffee.jpg",
       "posted_date": "2023-04-10",
-      "reading_time": "25 minutes",
+      "reading_time": 10,
       "hashtag": "#MysticalTales"
     },
     {
@@ -36,7 +36,7 @@
       "author": "Orion Stardust",
       "author_img": "https://i.ibb.co/3yxtcDw/blog-concept-with-wooden-worktable-supplies-44344-887.jpg",
       "posted_date": "2023-07-08",
-      "reading_time": 22,
+      "reading_time": 5,
       "hashtag": "#SpaceExploration"
     }
   ]
